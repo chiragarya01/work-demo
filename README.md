@@ -1,2 +1,2 @@
 # work-demo
-for demo how to use Github
+for demo how to use Github.
